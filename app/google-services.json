@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140453976189",
+    "firebase_url": "https://gemini-farmvesting.firebaseio.com",
+    "project_id": "gemini-farmvesting",
+    "storage_bucket": "gemini-farmvesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140453976189:android:f7d3ff469af46837aff914",
+        "android_client_info": {
+          "package_name": "com.startng.farmvesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140453976189-6tnuqub7elfgh6m56285s4ocuc6b54tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.startng.farmvesting",
+            "certificate_hash": "500f6bb6829827694b64d654b10ae1c840f69b12"
+          }
+        },
+        {
+          "client_id": "140453976189-98n56knafpgqpjcqiug9gpj94o8nu1hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcVbwND2o_Fil-K4tdpWzCqdHM3wIBiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140453976189-98n56knafpgqpjcqiug9gpj94o8nu1hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
