@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FarmVesting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Account</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="label">Please fill all fields correctly</string>
+    <string name="business_info">Business Information</string>
+
+    <string-array name="sign_in_option">
+        <item>Sign Up as</item>
+        <item>Investor</item>
+        <item>Farmer</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Select farming category</item>
+        <item>Crop farming</item>
+        <item>Poultry farming</item>
+        <item>Fish farming</item>
+        <item>Dairy farming</item>
+    </string-array>
+</resources>
